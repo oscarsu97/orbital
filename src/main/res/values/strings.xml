@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TET</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TET</string>
+    <string name="nav_header_subtitle">default@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_login">login</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Forum</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="facebook_app_id">1168405300206807</string>
+    <string name="fb_login_protocol_scheme">fb1168405300206807</string>
+
+
+    <string name="plus_sign">+</string>
+
+    <string name="title_header">Title</string>
+    <string name="title_edit">TextView</string>
+    <string name="edit_title">Edit title</string>
+    <string name="start_date_title">Start Date</string>
+    <string name="end_date_title">End Date</string>
+    <string name="enter_end_date_hint">Enter End Date</string>
+    <string name="enter_start_date_hint">Enter Start Date</string>
+    <string name="country_travel_header">Country Travel</string>
+    <string name="travel_setup_done_button">Done</string>
+    <string name="budget_label">Budget</string>
+    <string name="local_currency_label">Local Currency</string>
+    <string name="foreign_currency">Foreign Currency</string>
+    <string name="exchange_rate_label">Exchange Rate</string>
+    <string name="get_exchange_rate">Get Exchange Rate</string>
+    <string name="title_activity_expense_tracker">ExpenseTracker</string>
+</resources>
