@@ -1,7 +1,5 @@
 # TET (Travel Expense Tracker)
 
-![](https://github.com/oscarsu97/orbital/blob/master/TET.png)
-
 ### Objective
 
 * Solved the inconvenience of tracking overseas expense in foreign currency during a trip 
